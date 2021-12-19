@@ -1,2 +1,3 @@
-var bax = 'abc';
+"use strict";
+let bax = 'abc';
 console.log(bax);
